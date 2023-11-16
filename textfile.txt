@@ -1,1 +1,2 @@
 I have messed up my file
+Added another content to my master file
